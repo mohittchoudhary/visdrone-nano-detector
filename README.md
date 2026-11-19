@@ -175,7 +175,7 @@ Example photos in the "Before vs After" section:
 ## 👤 Author
 
 **Mohit Choudhary**, 2nd-year engineering student
-🔗 [LinkedIn](www.linkedin.com/in/mohit-choudhary-018-) · 💻 [GitHub](https://github.com/mohittchoudhary)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohit-choudhary-018-) · 💻 [GitHub](https://github.com/mohittchoudhary)
 
 Feedback, especially from people who work with drone footage, is very welcome.
 
